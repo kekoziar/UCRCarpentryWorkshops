@@ -17,8 +17,8 @@ title: UCR Library Carpentry Workshops
 email: katherine.koziar@ucr.edu
 description: >- # this means to ignore newlines until "baseurl:"
   A list of Carpentry Workshops delivered at University of California, Riverside Library.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/UCRCarpentryWorkshops" # the subpath of your site, e.g. /blog
+url: "https://kekoziar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kekoziar
 github_username:  kekoziar
 
